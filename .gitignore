@@ -1,0 +1,20 @@
+# Compiled class files
+*.class
+
+/co1/*.class
+
+/co2/*.class
+
+# IntelliJ project output directory
+/out/
+
+# Maven/Gradle build output directories (if applicable)
+/target/
+/build/
+
+# Various other common build/output files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
